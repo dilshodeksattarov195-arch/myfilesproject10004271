@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productcarse",
+        "uuid": 16562938,
+        "checksum": "imyqb2"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
